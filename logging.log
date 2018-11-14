@@ -1,0 +1,61 @@
+2018-11-13 13:12:07 INFO  EjemploLog4j:23 - un mensaje
+2018-11-13 13:12:07 WARN  EjemploLog4j:24 - un mensaje
+2018-11-13 13:12:07 ERROR EjemploLog4j:25 - un mensaje
+2018-11-13 13:12:07 FATAL EjemploLog4j:26 - un mensaje
+2018-11-13 13:31:08 INFO  Monitoreo:84 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-13 13:31:08 INFO  Monitoreo:33 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-13 13:31:08 INFO  Monitoreo:45 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-13 13:31:59 INFO  ConnectionFTP:100 - SERVER: 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+2018-11-13 13:31:59 INFO  ConnectionFTP:100 - SERVER: 220-You are user number 4 of 50 allowed.
+2018-11-13 13:31:59 INFO  ConnectionFTP:100 - SERVER: 220-Local time is now 13:31. Server port: 21.
+2018-11-13 13:31:59 INFO  ConnectionFTP:100 - SERVER: 220-This is a private system - No anonymous login
+2018-11-13 13:31:59 INFO  ConnectionFTP:100 - SERVER: 220-IPv6 connections are also welcome on this server.
+2018-11-13 13:31:59 INFO  ConnectionFTP:100 - SERVER: 220 You will be disconnected after 15 minutes of inactivity.
+2018-11-13 13:31:59 INFO  ConnectionFTP:100 - SERVER: 230 OK. Current restricted directory is /
+2018-11-13 13:31:59 INFO  ConnectionFTP:49 - Conexion FTP exitosa
+2018-11-13 13:32:03 INFO  ConnectionFTP:81 - Se ha grabado el fichero
+2018-11-13 13:42:23 INFO  Monitoreo:84 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-13 13:42:23 INFO  Monitoreo:33 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-13 13:42:23 INFO  Monitoreo:45 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-13 13:43:23 INFO  Monitoreo:84 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-13 13:43:23 INFO  Monitoreo:33 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-13 13:43:23 INFO  Monitoreo:45 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-13 13:44:25 INFO  Monitoreo:86 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-13 13:44:25 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-13 13:44:25 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-13 13:45:16 INFO  Monitoreo:86 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-13 13:45:16 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-13 13:45:17 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-13 13:47:58 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-13 13:47:58 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-13 13:47:58 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-13 13:51:39 INFO  ConnectionFTP:104 - SERVER: 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+2018-11-13 13:51:39 INFO  ConnectionFTP:104 - SERVER: 220-You are user number 2 of 50 allowed.
+2018-11-13 13:51:39 INFO  ConnectionFTP:104 - SERVER: 220-Local time is now 13:51. Server port: 21.
+2018-11-13 13:51:39 INFO  ConnectionFTP:104 - SERVER: 220-This is a private system - No anonymous login
+2018-11-13 13:51:39 INFO  ConnectionFTP:104 - SERVER: 220-IPv6 connections are also welcome on this server.
+2018-11-13 13:51:39 INFO  ConnectionFTP:104 - SERVER: 220 You will be disconnected after 15 minutes of inactivity.
+2018-11-13 13:51:39 INFO  ConnectionFTP:104 - SERVER: 230 OK. Current restricted directory is /
+2018-11-13 13:51:39 INFO  ConnectionFTP:50 - Conexion FTP exitosa
+2018-11-13 13:51:39 INFO  ConnectionFTP:76 - URL: D:\computos\JAVA\zips\backup_enviar_1.zip
+2018-11-13 13:51:41 INFO  ConnectionFTP:82 - Se ha enviado el fichero
+2018-11-13 13:51:49 INFO  ConnectionFTP:104 - SERVER: 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+2018-11-13 13:51:49 INFO  ConnectionFTP:104 - SERVER: 220-You are user number 2 of 50 allowed.
+2018-11-13 13:51:49 INFO  ConnectionFTP:104 - SERVER: 220-Local time is now 13:51. Server port: 21.
+2018-11-13 13:51:49 INFO  ConnectionFTP:104 - SERVER: 220-This is a private system - No anonymous login
+2018-11-13 13:51:49 INFO  ConnectionFTP:104 - SERVER: 220-IPv6 connections are also welcome on this server.
+2018-11-13 13:51:49 INFO  ConnectionFTP:104 - SERVER: 220 You will be disconnected after 15 minutes of inactivity.
+2018-11-13 13:51:49 INFO  ConnectionFTP:104 - SERVER: 230 OK. Current restricted directory is /
+2018-11-13 13:51:49 INFO  ConnectionFTP:50 - Conexion FTP exitosa
+2018-11-13 13:51:49 INFO  ConnectionFTP:76 - URL: D:\computos\JAVA\zips\backup_enviar_2.zip
+2018-11-13 13:51:50 INFO  ConnectionFTP:82 - Se ha enviado el fichero
+2018-11-13 13:51:53 INFO  ConnectionFTP:104 - SERVER: 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+2018-11-13 13:51:53 INFO  ConnectionFTP:104 - SERVER: 220-You are user number 2 of 50 allowed.
+2018-11-13 13:51:53 INFO  ConnectionFTP:104 - SERVER: 220-Local time is now 13:51. Server port: 21.
+2018-11-13 13:51:53 INFO  ConnectionFTP:104 - SERVER: 220-This is a private system - No anonymous login
+2018-11-13 13:51:53 INFO  ConnectionFTP:104 - SERVER: 220-IPv6 connections are also welcome on this server.
+2018-11-13 13:51:53 INFO  ConnectionFTP:104 - SERVER: 220 You will be disconnected after 15 minutes of inactivity.
+2018-11-13 13:51:53 INFO  ConnectionFTP:104 - SERVER: 230 OK. Current restricted directory is /
+2018-11-13 13:51:53 INFO  ConnectionFTP:50 - Conexion FTP exitosa
+2018-11-13 13:51:53 INFO  ConnectionFTP:76 - URL: D:\computos\JAVA\zips\backup_enviar_3.zip
+2018-11-13 13:51:55 INFO  ConnectionFTP:82 - Se ha enviado el fichero
