@@ -59,3 +59,188 @@
 2018-11-13 13:51:53 INFO  ConnectionFTP:50 - Conexion FTP exitosa
 2018-11-13 13:51:53 INFO  ConnectionFTP:76 - URL: D:\computos\JAVA\zips\backup_enviar_3.zip
 2018-11-13 13:51:55 INFO  ConnectionFTP:82 - Se ha enviado el fichero
+2018-11-14 11:49:53 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 11:49:54 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 11:49:54 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 11:51:25 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 11:51:25 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 11:51:25 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 11:53:41 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 11:53:41 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 11:53:41 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 11:54:40 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 11:54:40 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 11:54:40 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 11:55:39 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 11:55:39 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 11:55:39 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 11:56:48 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 11:56:48 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 11:56:48 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 11:58:12 INFO  ConnectionFTP:104 - SERVER: 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+2018-11-14 11:58:12 INFO  ConnectionFTP:104 - SERVER: 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+2018-11-14 11:58:13 INFO  ConnectionFTP:104 - SERVER: 220-You are user number 3 of 50 allowed.
+2018-11-14 11:58:13 INFO  ConnectionFTP:104 - SERVER: 220-Local time is now 11:57. Server port: 21.
+2018-11-14 11:58:14 INFO  ConnectionFTP:104 - SERVER: 220-This is a private system - No anonymous login
+2018-11-14 11:58:14 INFO  ConnectionFTP:104 - SERVER: 220-IPv6 connections are also welcome on this server.
+2018-11-14 11:58:14 INFO  ConnectionFTP:104 - SERVER: 220 You will be disconnected after 15 minutes of inactivity.
+2018-11-14 11:58:14 INFO  ConnectionFTP:104 - SERVER: 220-You are user number 4 of 50 allowed.
+2018-11-14 11:58:14 INFO  ConnectionFTP:104 - SERVER: 220-Local time is now 11:57. Server port: 21.
+2018-11-14 11:58:14 INFO  ConnectionFTP:104 - SERVER: 220-This is a private system - No anonymous login
+2018-11-14 11:58:14 INFO  ConnectionFTP:104 - SERVER: 230 OK. Current restricted directory is /
+2018-11-14 11:58:14 INFO  ConnectionFTP:50 - Conexion FTP exitosa
+2018-11-14 11:58:15 INFO  ConnectionFTP:104 - SERVER: 220-IPv6 connections are also welcome on this server.
+2018-11-14 11:58:15 INFO  ConnectionFTP:104 - SERVER: 220 You will be disconnected after 15 minutes of inactivity.
+2018-11-14 11:58:15 INFO  ConnectionFTP:76 - URL: D:\computos\JAVA\zips\backup_enviar_1.zip
+2018-11-14 11:58:16 INFO  ConnectionFTP:104 - SERVER: 230 OK. Current restricted directory is /
+2018-11-14 11:58:16 INFO  ConnectionFTP:50 - Conexion FTP exitosa
+2018-11-14 11:58:17 INFO  ConnectionFTP:76 - URL: D:\computos\JAVA\zips\backup_enviar_1.zip
+2018-11-14 11:58:17 INFO  ConnectionFTP:82 - Se ha enviado el fichero
+2018-11-14 11:58:19 INFO  ConnectionFTP:82 - Se ha enviado el fichero
+2018-11-14 11:59:38 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 11:59:38 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 11:59:38 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 12:00:01 INFO  ConnectionFTP:104 - SERVER: 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+2018-11-14 12:00:02 INFO  ConnectionFTP:104 - SERVER: 220-You are user number 4 of 50 allowed.
+2018-11-14 12:00:02 INFO  ConnectionFTP:104 - SERVER: 220-Local time is now 11:59. Server port: 21.
+2018-11-14 12:00:02 INFO  ConnectionFTP:104 - SERVER: 220-This is a private system - No anonymous login
+2018-11-14 12:00:02 INFO  ConnectionFTP:104 - SERVER: 220-IPv6 connections are also welcome on this server.
+2018-11-14 12:00:03 INFO  ConnectionFTP:104 - SERVER: 220 You will be disconnected after 15 minutes of inactivity.
+2018-11-14 12:00:03 INFO  ConnectionFTP:104 - SERVER: 230 OK. Current restricted directory is /
+2018-11-14 12:00:04 INFO  ConnectionFTP:50 - Conexion FTP exitosa
+2018-11-14 12:00:04 INFO  ConnectionFTP:76 - URL: D:\computos\JAVA\zips\backup_enviar_2.zip
+2018-11-14 12:00:06 INFO  ConnectionFTP:82 - Se ha enviado el fichero
+2018-11-14 12:05:04 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 12:05:04 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 12:05:04 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 12:05:39 INFO  ConnectionFTP:104 - SERVER: 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+2018-11-14 12:05:40 INFO  ConnectionFTP:104 - SERVER: 220-You are user number 5 of 50 allowed.
+2018-11-14 12:05:41 INFO  ConnectionFTP:104 - SERVER: 220-Local time is now 12:05. Server port: 21.
+2018-11-14 12:05:41 INFO  ConnectionFTP:104 - SERVER: 220-This is a private system - No anonymous login
+2018-11-14 12:05:41 INFO  ConnectionFTP:104 - SERVER: 220-IPv6 connections are also welcome on this server.
+2018-11-14 12:05:41 INFO  ConnectionFTP:104 - SERVER: 220 You will be disconnected after 15 minutes of inactivity.
+2018-11-14 12:05:43 INFO  ConnectionFTP:104 - SERVER: 230 OK. Current restricted directory is /
+2018-11-14 12:05:43 INFO  ConnectionFTP:50 - Conexion FTP exitosa
+2018-11-14 12:05:44 INFO  ConnectionFTP:76 - URL: D:\computos\JAVA\zips\backup_enviar_3.zip
+2018-11-14 12:05:46 INFO  ConnectionFTP:82 - Se ha enviado el fichero
+2018-11-14 12:21:44 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 12:21:44 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 12:21:44 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 12:22:20 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 12:22:20 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 12:22:20 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 12:22:52 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 12:22:52 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 12:22:52 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 12:37:34 INFO  Monitoreo:92 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 12:37:34 INFO  Monitoreo:35 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 12:37:34 INFO  Monitoreo:48 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 12:40:54 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 12:40:54 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 12:40:55 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 12:49:15 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 12:49:15 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 12:49:15 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 12:50:15 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 12:50:16 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 12:50:16 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 12:52:11 INFO  Monitoreo:67 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 12:52:11 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 12:52:11 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 12:54:45 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 12:54:45 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 12:54:46 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 12:56:41 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 12:56:41 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 12:56:41 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 12:58:29 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 12:58:29 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 12:58:29 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 12:59:22 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 12:59:22 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 12:59:22 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 12:59:43 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 12:59:43 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 12:59:43 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 13:00:34 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 13:00:34 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 13:00:34 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 13:01:10 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 13:01:10 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 13:01:10 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 13:01:56 INFO  ConnectionFTP:104 - SERVER: 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+2018-11-14 13:01:57 INFO  ConnectionFTP:104 - SERVER: 220-You are user number 4 of 50 allowed.
+2018-11-14 13:01:57 INFO  ConnectionFTP:104 - SERVER: 220-Local time is now 13:01. Server port: 21.
+2018-11-14 13:01:58 INFO  ConnectionFTP:104 - SERVER: 220-This is a private system - No anonymous login
+2018-11-14 13:01:58 INFO  ConnectionFTP:104 - SERVER: 220-IPv6 connections are also welcome on this server.
+2018-11-14 13:01:59 INFO  ConnectionFTP:104 - SERVER: 220 You will be disconnected after 15 minutes of inactivity.
+2018-11-14 13:02:00 INFO  ConnectionFTP:104 - SERVER: 230 OK. Current restricted directory is /
+2018-11-14 13:02:00 INFO  ConnectionFTP:50 - Conexion FTP exitosa
+2018-11-14 13:02:01 INFO  ConnectionFTP:76 - URL: D:\computos\JAVA\zips\backup_enviar_1.zip
+2018-11-14 13:02:03 INFO  ConnectionFTP:82 - Se ha enviado el fichero
+2018-11-14 13:35:00 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 13:35:00 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 13:35:00 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 13:37:27 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 13:37:27 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 13:37:27 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 13:42:21 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 13:42:21 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 13:42:22 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 13:47:32 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 13:47:32 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 13:47:33 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 13:49:09 INFO  Monitoreo:89 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 13:49:09 INFO  Monitoreo:34 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 13:49:10 INFO  Monitoreo:46 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 14:00:37 INFO  Monitoreo:92 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 14:00:37 INFO  Monitoreo:36 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 14:00:37 INFO  Monitoreo:48 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 14:01:55 INFO  ConnectionFTP:107 - SERVER: 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+2018-11-14 14:01:56 INFO  ConnectionFTP:107 - SERVER: 220-You are user number 2 of 50 allowed.
+2018-11-14 14:01:57 INFO  ConnectionFTP:107 - SERVER: 220-Local time is now 14:01. Server port: 21.
+2018-11-14 14:01:57 INFO  ConnectionFTP:107 - SERVER: 220-This is a private system - No anonymous login
+2018-11-14 14:01:57 INFO  ConnectionFTP:107 - SERVER: 220-IPv6 connections are also welcome on this server.
+2018-11-14 14:01:58 INFO  ConnectionFTP:107 - SERVER: 220 You will be disconnected after 15 minutes of inactivity.
+2018-11-14 14:01:58 INFO  ConnectionFTP:107 - SERVER: 230 OK. Current restricted directory is /
+2018-11-14 14:01:59 INFO  ConnectionFTP:52 - Conexion FTP exitosa
+2018-11-14 14:01:59 INFO  ConnectionFTP:78 - URL: D:\computos\JAVA\zips\backup_enviar_1.zip
+2018-11-14 14:02:02 INFO  ConnectionFTP:84 - Se ha enviado el fichero
+2018-11-14 14:03:12 INFO  Monitoreo:92 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 14:03:12 INFO  Monitoreo:36 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 14:03:12 INFO  Monitoreo:48 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 14:03:28 INFO  ConnectionFTP:107 - SERVER: 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+2018-11-14 14:03:29 INFO  ConnectionFTP:107 - SERVER: 220-You are user number 2 of 50 allowed.
+2018-11-14 14:03:30 INFO  ConnectionFTP:107 - SERVER: 220-Local time is now 14:03. Server port: 21.
+2018-11-14 14:03:30 INFO  ConnectionFTP:107 - SERVER: 220-This is a private system - No anonymous login
+2018-11-14 14:03:30 INFO  ConnectionFTP:107 - SERVER: 220-IPv6 connections are also welcome on this server.
+2018-11-14 14:03:31 INFO  ConnectionFTP:107 - SERVER: 220 You will be disconnected after 15 minutes of inactivity.
+2018-11-14 14:03:31 INFO  ConnectionFTP:107 - SERVER: 230 OK. Current restricted directory is /
+2018-11-14 14:03:32 INFO  ConnectionFTP:52 - Conexion FTP exitosa
+2018-11-14 14:03:32 INFO  ConnectionFTP:78 - URL: D:\computos\JAVA\zips\backup_enviar_2.zip
+2018-11-14 14:03:36 INFO  ConnectionFTP:84 - Se ha enviado el fichero
+2018-11-14 14:04:01 INFO  ConnectionFTP:107 - SERVER: 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+2018-11-14 14:04:02 INFO  ConnectionFTP:107 - SERVER: 220-You are user number 2 of 50 allowed.
+2018-11-14 14:04:02 INFO  ConnectionFTP:107 - SERVER: 220-Local time is now 14:03. Server port: 21.
+2018-11-14 14:04:03 INFO  ConnectionFTP:107 - SERVER: 220-This is a private system - No anonymous login
+2018-11-14 14:04:03 INFO  ConnectionFTP:107 - SERVER: 220-IPv6 connections are also welcome on this server.
+2018-11-14 14:04:04 INFO  ConnectionFTP:107 - SERVER: 220 You will be disconnected after 15 minutes of inactivity.
+2018-11-14 14:04:05 INFO  ConnectionFTP:107 - SERVER: 230 OK. Current restricted directory is /
+2018-11-14 14:04:05 INFO  ConnectionFTP:52 - Conexion FTP exitosa
+2018-11-14 14:04:06 INFO  ConnectionFTP:78 - URL: D:\computos\JAVA\zips\backup_enviar_3.zip
+2018-11-14 14:04:08 INFO  ConnectionFTP:84 - Se ha enviado el fichero
+2018-11-14 14:17:55 INFO  Monitoreo:92 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 14:17:55 INFO  Monitoreo:36 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 14:17:55 INFO  Monitoreo:48 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 14:18:57 INFO  Monitoreo:92 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 14:18:57 INFO  Monitoreo:36 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 14:18:57 INFO  Monitoreo:48 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 14:19:14 INFO  Monitoreo:92 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 14:19:14 INFO  Monitoreo:36 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 14:19:14 INFO  Monitoreo:48 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 14:20:27 INFO  Monitoreo:92 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 14:20:27 INFO  Monitoreo:36 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 14:20:27 INFO  Monitoreo:48 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\
+2018-11-14 14:21:52 INFO  Monitoreo:92 - Path: D:\Computos\FIRMA\proyect_firma\export_databases
+2018-11-14 14:21:52 INFO  Monitoreo:36 - WatchService in D:\\computos\\JAVA\\zips\\
+2018-11-14 14:21:52 INFO  Monitoreo:48 - Inicio de observacion en el directorio D:\\computos\\JAVA\\zips\\

@@ -5,6 +5,7 @@
  */
 package negocio;
 
+import java.awt.TrayIcon;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -16,6 +17,7 @@ import static java.nio.file.StandardWatchEventKinds.ENTRY_MODIFY;
 import static java.nio.file.StandardWatchEventKinds.ENTRY_CREATE;
 import nicon.notify.core.Notification;
 import org.apache.log4j.Logger;
+import view.JFConsole;
 
 /**
  *
@@ -29,7 +31,7 @@ public class Monitoreo {
         initConfig();
     }
 
-    public void monitorear(String directory) {
+    public void monitorear(String directory, JFConsole frame) {
 
         log.info("WatchService in " + directory);
 
@@ -44,8 +46,9 @@ public class Monitoreo {
             folder.register(observador, new WatchEvent.Kind[]{ENTRY_CREATE});//other options  ENTRY_DELETE, ENTRY_MODIFY
 
             log.info("Inicio de observacion en el directorio " + directory);
+            frame.mensajeTrayIcon("Inicio de observacion en el directorio " + directory, TrayIcon.MessageType.INFO);
             try{
-            Notification.desktopMessage("Información", "Inicio de observacion en el directorio " + directory);
+            //Notification.desktopMessage("Información", "Inicio de observacion en el directorio " + directory);
             }catch(NullPointerException e){
                 
             }
@@ -63,7 +66,7 @@ public class Monitoreo {
                     ConnectionFTP cnFTP = new ConnectionFTP();
                     cnFTP.conectFTP();
                     //tansferencia de el ultimo zip al ftp
-                    cnFTP.sendFile(zp);
+                    cnFTP.sendFile(zp, frame);
                     cnFTP.disconectFTP();
                 }
 

@@ -5,6 +5,7 @@
  */
 package negocio;
 
+import java.awt.TrayIcon;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -14,6 +15,7 @@ import org.apache.commons.net.ftp.FTP;
 import org.apache.commons.net.ftp.FTPClient;
 import org.apache.commons.net.ftp.FTPReply;
 import org.apache.log4j.Logger;
+import view.JFConsole;
 
 /**
  *
@@ -60,14 +62,14 @@ public class ConnectionFTP {
         try {
             client.logout();
             client.disconnect();
-            System.out.println("Desconección exitosa!!!");
+            log.info("Desconección exitosa!!!");
         } catch (IOException ioe) {
             log.error("No se logro desconectar del FTP");
             log.fatal(ioe.getStackTrace());
         }
     }
     
-    public void sendFile(File file) {
+    public void sendFile(File file, JFConsole frame) {
         try {
             client.setFileType(FTP.BINARY_FILE_TYPE, FTP.BINARY_FILE_TYPE);
             client.setFileTransferMode(FTP.BINARY_FILE_TYPE);
@@ -81,7 +83,8 @@ public class ConnectionFTP {
                 if (client.storeFile(file.getName(), fis)) {
                     log.info("Se ha enviado el fichero");
                     try{
-                    Notification.desktopMessage("Información", "Se ha enviado un fichero");
+                    //Notification.desktopMessage("Información", "Se ha enviado un fichero");
+                    frame.mensajeTrayIcon("Se ha enviado un fichero", TrayIcon.MessageType.INFO);
                     }catch(NullPointerException e){}
                 } else {
                     log.warn("No se ha enviado el fichero");

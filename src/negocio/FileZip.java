@@ -21,7 +21,7 @@ public class FileZip {
         if (zips_list != null) {
             String ult_zip = zips_list[zips_list.length - 1];
             File fichero = new File(url + ult_zip);
-            System.out.println("File: " + fichero.getName());
+            log.info("File: " + fichero.getName());
             return fichero;
         }
         log.warn("No hay ficheros");
@@ -31,7 +31,7 @@ public class FileZip {
     public File getZip(String url, String fileName) {
         File fichero = new File(url + fileName);
         if (fichero.exists()) {
-            System.out.println("File: " + fichero.getName());
+            log.info("File: " + fichero.getName());
             return fichero;
         }
         log.warn("No hay ficheros");
